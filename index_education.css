@@ -1,0 +1,48 @@
+body
+{
+	background-color: lightblue;
+}
+h1
+{
+	text-align: center; 
+	background-color: #FEC8D8; 
+	font-family: Lucida Handwriting; 
+	font-size: 200%;
+}
+table
+{
+	border: 2px solid;
+	border-collapse: collapse;
+	width: 800px;
+	text-align: center;
+	font-family: arial;
+	background-color: whitesmoke;
+}
+th, td, tr
+{
+	border: 2px solid;
+}
+a:link
+{
+	color: green;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:visited
+{
+	color: black;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:hover
+{
+	color: red;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:active
+{
+	color: darkgreen;
+	background-color: transparent;
+	text-decoration: none;
+}

@@ -1,0 +1,25 @@
+body
+{
+	background-color: #AFE1AF;
+}
+h1
+{
+text-align: center; 
+background-color: #F3DDF2; 
+font-family: Lucida Handwriting; 
+font-size: 200%;
+table
+}
+{
+	border: 2px solid;
+	border-collapse: collapse;
+	width: 900px;
+	text-align: center;
+	font-family: Times New Roman;
+	font-size: 20px;
+}
+th, td, tr
+{
+	border: 2px solid;
+	border-style: hidden;
+}
