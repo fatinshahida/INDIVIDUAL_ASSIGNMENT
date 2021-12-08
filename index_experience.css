@@ -1,6 +1,6 @@
 body
 {
-	background-color: #E0BBE4;
+	background-image: url(images/wall_4.jpg);
 }
 h1
 {
@@ -13,5 +13,5 @@ p
 {
 	text-align: center;
 	font-family: arial;
-	font-size: 15px;
+	font-size: 17px;
 }

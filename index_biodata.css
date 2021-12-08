@@ -1,6 +1,6 @@
 body
 {
-	background-color: antiquewhite;
+	background-image: url(images/images.jpeg);
 }
 h1
 {
@@ -17,7 +17,7 @@ table
 	text-align: left;
 	font-family: Times New Roman;
 	font-size: 20px;
-	background-color: #D2B48C;
+	color: white;
 }
 th, td, tr
 {

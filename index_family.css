@@ -1,6 +1,6 @@
 body
 {
-	background-color: #CCCCFF;
+	background-image: url(images/wall_3.jpg);
 }
 h1
 {
@@ -16,7 +16,7 @@ table
 	width: 800px;
 	text-align: center;
 	font-family: arial;
-	background-color: floralwhite;
+	background-color: ghostwhite;
 }
 th, td, tr
 {

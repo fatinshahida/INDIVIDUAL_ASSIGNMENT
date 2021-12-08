@@ -1,6 +1,6 @@
 body
 {
-	background-color: lightblue;
+	background-image: url(images/flower.jpg);
 }
 h1
 {
@@ -16,7 +16,7 @@ table
 	width: 800px;
 	text-align: center;
 	font-family: arial;
-	background-color: whitesmoke;
+	background-color: antiquewhite;
 }
 th, td, tr
 {
